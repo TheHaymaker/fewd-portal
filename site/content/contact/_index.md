@@ -1,19 +1,23 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/FEWD-LOGO.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "SPACE: 444 N Wabash Avenue"
+  - heading: Class Schedule
+    text: "M + F: 6PM – 9PM"
+  - heading: Office hours
+    text: "Sunday: 10AM – 11:30AM"
+
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+As a student in General Assembly's FEWD course, know that you are
+welcome to reach out to your instructor directly below should you
+have any questions or concerns.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+We will do our best to respond as soon as we are able.
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+<h3 class="f4 b lh-title mb2">Interested in scheduling 1:1 time?</h3>
+
+You can also use the form below for any inquiries about 
+scheduling a 1-on-1 session outside of normal office hours.

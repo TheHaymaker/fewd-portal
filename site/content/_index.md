@@ -1,7 +1,7 @@
 ---
 title: Front End Web Development
 subtitle: General Asssembly Chicago
-image: /img/fewd.jpg
+image: /img/parttime_frontendwebdevelopment.jpg
 blurb:
   heading: Why Kaldi?
   text: >-

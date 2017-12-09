@@ -16,7 +16,11 @@ technologies:
     - image: /img/JS-shield.png
       text: "Last, but certainly not least, JavaScript is the expressive, dynamic language that powers everything from interactions and animations to server-side code."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 

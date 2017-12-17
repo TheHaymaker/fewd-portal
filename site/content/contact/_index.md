@@ -7,7 +7,7 @@ contact_entries:
   - heading: Class Schedule
     text: "M + W: 6PM – 9PM"
   - heading: Office hours
-    text: "Sunday: 10AM – 11:30AM"
+    text: "Thursday (virtual): 7:30PM – 9:00PM"
 
 ---
 

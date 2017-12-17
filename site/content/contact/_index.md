@@ -5,7 +5,7 @@ contact_entries:
   - heading: Location
     text: "SPACE: 444 N Wabash Avenue"
   - heading: Class Schedule
-    text: "M + F: 6PM – 9PM"
+    text: "M + W: 6PM – 9PM"
   - heading: Office hours
     text: "Sunday: 10AM – 11:30AM"
 

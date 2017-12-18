@@ -14,7 +14,7 @@ syllabus_entries:
     linkToStarterCode: "/start-code/Week-01-Assignment.zip"
   - day: "Dec. 18"
     focus: "Box Model"
-    description: "Styling"
+    description: "Styling and display types"
     linkToSlides: "/slides/slides_css-basics-week-2.zip"
     linkToStarterCode: "/start-code/FEWD_02_01_starter_plus_lab.zip"
   - day: "Dec. 20"

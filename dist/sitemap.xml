@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/second-week-resources/</loc>
+    <lastmod>2017-12-17T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-week-resources/</loc>
+    <lastmod>2017-12-10T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-12-17T15:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/products/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-12-17T15:04:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/syllabus/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/values/</loc>
+  </url>
+  
+</urlset>

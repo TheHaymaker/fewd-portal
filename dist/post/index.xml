@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Homepage</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Dec 2017 15:04:10 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 2 resources</title>
+      <link>/post/second-week-resources/</link>
+      <pubDate>Sun, 17 Dec 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/post/second-week-resources/</guid>
+      <description> Our focus this week will be on the Box Model and layout. Use the resources below to supplement in-class discussion.
+Notable resources  The Box Model A great primer on how different display types behave with regard to the box model Class vs. ID CSS reset MDN documentation on floats  </description>
+    </item>
+    
+    <item>
+      <title>First Week resources</title>
+      <link>/post/first-week-resources/</link>
+      <pubDate>Sun, 10 Dec 2017 15:04:10 +0000</pubDate>
+      
+      <guid>/post/first-week-resources/</guid>
+      <description> This week, you should check out these resources regarding HTML and CSS.
+Notable resources  Marksheet.io Codepen.io Mozilla Developer Network PRACTICE spinning up new, simple projects so that the process becomes second nature.  </description>
+    </item>
+    
+  </channel>
+</rss>

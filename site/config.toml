@@ -1,4 +1,3 @@
-staticDir = ["static"]
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "fewd"

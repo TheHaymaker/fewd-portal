@@ -5,9 +5,9 @@ contact_entries:
   - heading: Location
     text: "RENT 24: 444 N Wabash Avenue Door code: #4242"
   - heading: Class Schedule
-    text: "M + W: 6PM – 9PM"
+    text: "M+W: 6–9PM"
   - heading: Office hours
-    text: "Tuesday : 5:30PM – 7:30PM"
+    text: "Tuesday: 5:30–7:30PM"
 ---
 
 As a student in General Assembly's FEWD course, know that you are

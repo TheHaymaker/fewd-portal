@@ -3,18 +3,25 @@
 {{ partial "nav" . }}
 
 <div class="ph3 bg-off-white">
-    <div class="center mw6 pv3">
+    <div class="center mw6 pv3 syllabus_alternate">
         <h1 class="tc f2-m b grey-4 center">Class Syllabus</h1>
         <img src="{{ .Params.logo }}" alt="" class="db w4 center pv4"> {{ .Content }}
 
         <!-- <div class="flex-ns mb3"> -->
             {{ range .Params.syllabus_entries }}
             <div style="padding: 10px;">
-                <h4 class="f4 b lh-title mb2 primary">Day: {{ .day }}</h4>
-                <h4 class="f4 b lh-title mb2 primary">Focus: {{ .focus }}</h4>
+                <h3 class="f4 b lh-title mb2 primary">{{ .day }}</h3>
+                <h4 class="f3 b lh-title mb2 primary">{{ .focus }}</h4>
                 <p>{{ .description }}</p>
-                <p><a href="{{ .linkToSlides }}">Slides</a></p>
-                <p><a href="{{ .linkToStarterCode }}">Starter Code</a></p>
+                {{ with .linkToSlides }}
+                <p><a target="_blank" href="{{ . }}">Slides</a></p>
+                {{ end }}
+                {{ with .linkToStarterCode }}
+                <p><a href="{{ . }}">Starter Code</a></p>
+                {{ end }}
+                {{ with .homework }}
+                <p><a href="{{ . }}">Homework Assignment</a></p>
+                {{ end }}
             </div>
             {{ end }}
         

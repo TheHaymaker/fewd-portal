@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Front-End Web Development on Homepage</title>
+    <title>Front-End Web Development on fewd</title>
     <link>/</link>
-    <description>Recent content in Front-End Web Development on Homepage</description>
+    <description>Recent content in Front-End Web Development on fewd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Dec 2017 15:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Nov 2018 15:04:10 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Week 2 resources</title>
       <link>/post/second-week-resources/</link>
-      <pubDate>Sun, 17 Dec 2017 15:04:10 +0000</pubDate>
+      <pubDate>Sun, 25 Nov 2018 15:04:10 +0000</pubDate>
       
       <guid>/post/second-week-resources/</guid>
       <description> Our focus this week will be on the Box Model and layout. Use the resources below to supplement in-class discussion.
@@ -24,7 +24,7 @@ Notable resources  The Box Model A great primer on how different display types b
     <item>
       <title>First Week resources</title>
       <link>/post/first-week-resources/</link>
-      <pubDate>Sun, 10 Dec 2017 15:04:10 +0000</pubDate>
+      <pubDate>Wed, 14 Nov 2018 15:04:10 +0000</pubDate>
       
       <guid>/post/first-week-resources/</guid>
       <description> This week, you should check out these resources regarding HTML and CSS.

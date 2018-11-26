@@ -6,6 +6,20 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
+    {{ $taxotag := "tags" }}
+    {{ $taxocat := "categories" }}
+    <!-- Use the plural form here -->
+    <ul id="taxonomy">
+      {{ range .Param $taxotag }}
+      {{ $name := . }}
+      <span class="tag"><a href="/tags/{{$name}}">{{ $name }}</a></span>
+      {{ end }}
+  
+      {{ range .Param $taxocat }}
+      {{ $name := . }}
+      <span class="category"><a href="/categories/{{$name}}">{{ $name }}</a></span>
+      {{ end }}
+    </ul>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}

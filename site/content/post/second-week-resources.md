@@ -1,9 +1,15 @@
 ---
-title: Week 2 resources
+title: Week Two Resources
 date: 2018-11-25T15:04:10.000Z
 description: >-
   Some resources to reference during your second week of class time.
 image: /img/layout-example.png
+categories:
+  - HTML
+slug: first-week-2
+tags:
+  - HTML
+  - CSS
 ---
 
 Our focus this week will be on the Box Model and layout. Use the resources below to supplement in-class discussion.

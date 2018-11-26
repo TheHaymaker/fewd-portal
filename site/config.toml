@@ -1,3 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "fewd"
+[taxonomies]
+  category = "categories"
+  tag = "tags"

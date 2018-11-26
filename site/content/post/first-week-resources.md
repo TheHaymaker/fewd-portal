@@ -1,9 +1,16 @@
 ---
-title: First Week resources
+title: First Week Resources
 date: 2018-11-14T15:04:10.000Z
 description: >-
   Some resources to reference your first few weeks in FEWD.
 image: /img/keyboard.jpg
+categories:
+  - HTML
+slug: first-week
+tags:
+  - HTML
+  - MDN
+  - FEWD
 ---
 
 This week, you should check out these resources regarding **HTML** and **CSS**.

@@ -7664,6 +7664,8 @@
 	          getAsset = _props.getAsset;
 
 	      var image = getAsset(entry.getIn(["data", "image"]));
+	      var tags = entry.getIn(["data", "tags"]);
+	      var cats = entry.getIn(["data", "categories"]);
 
 	      return _react2.default.createElement(
 	        "div",
@@ -7676,10 +7678,12 @@
 	        _react2.default.createElement(
 	          "div",
 	          { className: "flex justify-between grey-3" },
-	          _react2.default.createElement("div", { style: {
+	          _react2.default.createElement("div", {
+	            style: {
 	              width: "80px",
 	              height: "80px"
-	            } }),
+	            }
+	          }),
 	          _react2.default.createElement(
 	            "p",
 	            null,
@@ -7690,6 +7694,32 @@
 	            null,
 	            "Read in x minutes"
 	          )
+	        ),
+	        _react2.default.createElement(
+	          "ul",
+	          { id: "taxonomy" },
+	          tags.map(function (tag) {
+	            return _react2.default.createElement(
+	              "span",
+	              { className: "tag" },
+	              _react2.default.createElement(
+	                "a",
+	                { href: "/tags/" + tag },
+	                tag
+	              )
+	            );
+	          }),
+	          cats.map(function (cat) {
+	            return _react2.default.createElement(
+	              "span",
+	              { className: "category" },
+	              _react2.default.createElement(
+	                "a",
+	                { href: "/categories/" + cat },
+	                cat
+	              )
+	            );
+	          })
 	        ),
 	        _react2.default.createElement(
 	          "div",

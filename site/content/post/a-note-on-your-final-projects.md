@@ -5,7 +5,7 @@ description: >-
   As we round the corner of week 2, know that you'll need to finalize your final
   project idea by week 5...
 tags:
-  - Final Project
+  - Final-Project
 categories:
   - FEWD
 image: /img/final-project.png

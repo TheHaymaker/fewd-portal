@@ -30,7 +30,7 @@ syllabus_entries:
     focus: "CSS: Layouts con't"
     description: "Layout Lab with more advanced layout designs"
     linkToSlides: ""
-    linkToStarterCode: ""
+    linkToStarterCode: "https://github.com/TheHaymaker/FEWD17/tree/master/05-lesson/starter-code"
   - day: "Dec. 5"
     focus: "CSS: Layouts con't"
     description: "Group Layout Lab"

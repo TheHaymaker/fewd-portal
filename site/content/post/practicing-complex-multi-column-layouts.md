@@ -10,12 +10,15 @@ categories:
   - Layouts
 image: /img/capture.png
 ---
-If you want to practice more complex layouts - like the one above - you can access complex layouts that utilize `floats` as well as `flexbox` (an attribute which we'll spend time on next week) [here](https://thehaymaker.github.io/layouts/).
+If you want to practice more complex layouts - like the one above - you can access complex layouts that utilize **floats **as well as **flexbox** (an attribute which we'll spend time on next week) [here](https://thehaymaker.github.io/layouts/).
 
 Remember that our float-based layouts follow a convention of a 12-column layout. 
 
 These layouts generally follow a pattern of:
 
-```
-- container   - row      - col      - col        - content
-```
+* container
+  * row
+    * column
+      * content
+    * column
+      * content

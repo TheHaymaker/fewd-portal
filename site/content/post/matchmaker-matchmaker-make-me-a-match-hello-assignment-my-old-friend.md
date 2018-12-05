@@ -15,6 +15,6 @@ Starter code for this assignment with instructions can be found in the class rep
 
 **Due:** Next Wednesday before class.
 
-**Expectations: **Submission of Github URL + GitHub Pages URL
+**Expectations:** Submission of Github URL + GitHub Pages URL
 
 Good luck!

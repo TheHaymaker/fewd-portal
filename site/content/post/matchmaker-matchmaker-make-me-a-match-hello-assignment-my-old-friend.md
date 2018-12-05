@@ -11,7 +11,7 @@ categories:
   - front-end
 image: /img/relaxr_blog.jpg
 ---
-Starter code for this assignment with instructions can be found the in class repo here, as well as referenced in the syllabus.
+Starter code for this assignment with instructions can be found in the class repo [here](https://github.com/TheHaymaker/FEWD17/tree/master/06-lesson/assignment_starter_code), as well as referenced in the syllabus.
 
 **Due:** Next Wednesday before class.
 

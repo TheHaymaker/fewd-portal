@@ -11,11 +11,14 @@ blurb:
     projects.
 intro:
   heading: What we cover in this course
-  text: >-
-    Throughout this course, we will be covering the three main technologies that
-    power the front-end of the web: HTML, CSS and JavaScript.
-products:
-  - text: ' '
+  text: "Throughout this course, we will be covering the three main technologies that power the front-end of the web: HTML, CSS and JavaScript."
+technologies:
+    - image: img/html.png
+      text: "The 'skeleton' of any web page, HTML provides structure and hierarchy for our layouts."
+    - image: img/css.png
+      text: "We use CSS to control how our pages look and feel to our users. By the end of the course, you may just feel like a magician given the power of this language."
+    - image: /img/JS-shield.png
+      text: "Last, but certainly not least, JavaScript is the expressive, dynamic language that powers everything from interactions and animations to server-side code."
 values:
   heading: Our values
   text: >-
